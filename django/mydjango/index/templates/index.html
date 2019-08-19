@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+    <title>Title</title>
+    <style type="text/css">
+        body {
+            background-color: bisque;
+        }
+
+        h1, p {
+            text-align: center;
+            margin-left: 300px;
+            margin-right: 300px;
+        }
+
+        #div_img {
+            background-color: black;
+            width: 500px;
+            height: 400px;
+            text-align: center;
+            margin-left: 600px;
+            margin-top: 90px;
+        }
+
+        #show {
+            width: 500px;
+            height: 400px;
+        }
+
+        #div_input {
+            text-align: center;
+            margin-left: 600px;
+            width: 500px;
+            height: 200px;
+        }
+
+        #img_su {
+            width: 500px;
+            height: 70px;
+        }
+
+        #in_url {
+            width: 400px;
+            height: 30px;
+            /*margin-right: 300px;*/
+            /*margin-top: 10px;*/
+        }
+
+        #su {
+            font-size: 20px;
+        }
+
+        #file {
+            font-size: 30px;
+            margin-top: 10px;
+            margin-right: 300px;
+            display: none;
+        }
+
+        #bu {
+            width: 200px;
+            height: 50px;
+        }
+    </style>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+</head>
+<body>
+<div>
+    <h1>功能介绍</h1>
+    <p>
+        检测图中的人脸，并为人脸标记出边框。检测出人脸后，可对人脸进行分析，获得眼、口、鼻轮廓等150个关键点定位，
+        准确识别多种人脸属性，如性别，年龄，表情等信息。该技术可适应大角度侧脸，遮挡，模糊，表情变化等各种实际环境
+    </p>
+</div>
+<div>
+    <form action="#" enctype="multipart/form-data" method="post" id="f">
+        {% csrf_token %}
+        <div id="div_img">
+            <img src="{{ img }}" id="show" alt=""/>
+        </div>
+        <div id="div_input">
+            <table id="img_su">
+                <tr>
+                    <td>
+                        <input type="url" placeholder="请输入图片地址" name="im_src" id="in_url"/>
+                    </td>
+                    <td>
+                        <input type="button" , value="提交" id="su" onclick="inp_url();"/>
+                    </td>
+                </tr>
+            </table>
+            <input id="file" class="filepath" type="file" name="im_submit" onchange="test()">
+            <input type="button" onclick="file.click()" value="本地上传" id="bu">
+            <!--                        <input id="file" class="filepath" type="file" name="im_submit">-->
+            <!--                        <input type="button" onclick="file.click()" value="本地上传" id="bu" class="opload_btn">-->
+            <div id="json">
+                {{ img_json }}
+            </div>
+        </div>
+    </form>
+</div>
+<script>
+    function inp_url() {
+        var value1 = $('#in_url').val();
+        $('#show').attr('src', value1);
+        var data = new FormData();
+        //data.append(input标签的name值， 图片的src值)
+        data.append('im_src', value1);
+        console.log(value1)
+        $.ajax({
+            url: /index/,
+            type: "post",
+            data: data,
+            processData: false,
+            contentType: false,
+        }).done(function (ret1) {
+            $("#json").text(JSON.stringify(ret1.img_json))
+        })
+    }
+</script>
+<script>
+    function test() {
+        var data = new FormData($('#f')[0]);
+        $.ajax({
+            url: /index/,
+            type: "post",
+            data: data,
+            processData: false,
+            contentType: false,
+        }).done(function (ret) {
+            $("#show").attr("src", ret.img)
+            $("#json").text(JSON.stringify(ret.img_json))
+        })
+    }
+
+    // $('#bu').click(function () {
+    //     let fordata = new FormData();
+    //     fordata.append('im_submit', $('#file')[0].files[0])
+    //     $.ajax({
+    //         url: /index/,
+    //         type:"post",
+    //         data:data,
+    //         processData:false,
+    //         contentType:false,
+    //     }).done(function (ret) {
+    //         $("#show").attr("src", ret.img)
+    //         $("#json").text(JSON.stringify(ret.img_json))
+    //     })
+    // })
+</script>
+<!--            <script>-->
+<!--                 function changepic(obj) {-->
+<!--                    //console.log(obj.files[0]);//这里可以获取上传文件的name-->
+<!--                    // var newsrc=getObjectURL(obj.files[0]);-->
+<!--                    var newsrc=getObjectURL(obj.files[0]);-->
+<!--                    document.getElementById('show').src=newsrc;-->
+<!--                }-->
+<!--                //建立一個可存取到該file的url-->
+<!--                function getObjectURL(file) {-->
+<!--                    var url = null ;-->
+<!--                    // 下面函数执行的效果是一样的，只是需要针对不同的浏览器执行不同的 js 函数而已-->
+<!--                    if (window.createObjectURL!=undefined) { // basic-->
+<!--                        url = window.createObjectURL(file) ;-->
+<!--                    } else if (window.URL!=undefined) { // mozilla(firefox)-->
+<!--                        url = window.URL.createObjectURL(file) ;-->
+<!--                    } else if (window.webkitURL!=undefined) { // webkit or chrome-->
+<!--                        url = window.webkitURL.createObjectURL(file) ;-->
+<!--                    }-->
+<!--                    return url ;-->
+<!--                }-->
+
+
+<!--&lt;!&ndash;            </script>&ndash;&gt;-->
+
+
+</body>
+</html>

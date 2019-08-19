@@ -1,0 +1,29 @@
+1  有监督学习
+2  无监督学习
+3  增强学习
+
+机器学习的一般流程：
+    数据收集-》数据清洗-》特征工程-》数据建模
+
+package:
+    Numpy: ndarray
+    pandas: DataFrame/Series(Excel/csv/tsv)
+    scipy: Gamma/Comb
+    matplotlib:
+    scikit-learn: ML
+    tensorflow(Keras)/pyTorch/Theano(Keras)/Caffe/PandlePandle: DL
+
+    anaconda编译器
+
+主要内容：
+    概率论基础：
+        概率与直观
+        常见概率分布
+        Sigmoid/Logistic函数的引入
+    统计量
+        期望/方差/协方差/相关系数
+        独立和不相关
+    大数定理
+    中心极限定理
+    最大似然估计
+        过拟合

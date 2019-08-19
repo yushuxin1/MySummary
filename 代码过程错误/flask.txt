@@ -1,0 +1,1 @@
+1   在写路由时app.route('/index')总是忘记加上前面的/  报错信息：ValueError: urls must start with a leading slash

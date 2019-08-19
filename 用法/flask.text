@@ -1,0 +1,2 @@
+1  .format用法
+	（1）'Item: {}'.format(变量名)  

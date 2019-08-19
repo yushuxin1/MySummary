@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7948074-4c89-478f-b06e-ecd3095dfd30" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>im_url</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mydjango/mydjango/urls.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/somewhere.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/models.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/templates/show.html" />
+        <option value="$PROJECT_DIR$/mydjango/index/form.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/apps.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/face_test_sdk1.py" />
+        <option value="$PROJECT_DIR$/mydjango/1.html" />
+        <option value="$PROJECT_DIR$/mydjango/index/1.html" />
+        <option value="$PROJECT_DIR$/mydjango/index/templates/1.html" />
+        <option value="$PROJECT_DIR$/mydjango/index/urls.py" />
+        <option value="$PROJECT_DIR$/mydjango/mydjango/settings.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/views.py" />
+        <option value="$PROJECT_DIR$/mydjango/index/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="126" />
+    <option name="y" value="195" />
+    <option name="width" value="1657" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="mydjango" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="mydjango" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="mydjango" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="mydjango" type="462c0819:PsiDirectoryNode" />
+              <item name="mydjango" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/人脸识别" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mydjango/index/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="apps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mydjango/index" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydjango/index/apps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mydjango/index" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydjango/index/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mydjango/index" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydjango/index/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.apps" />
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7948074-4c89-478f-b06e-ecd3095dfd30" name="Default Changelist" comment="" />
+      <created>1562061323952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562061323952</updated>
+      <workItem from="1562061324986" duration="940000" />
+      <workItem from="1562113768200" duration="22766000" />
+      <workItem from="1562139578894" duration="3418000" />
+      <workItem from="1562143013657" duration="4821000" />
+      <workItem from="1562200348585" duration="30006000" />
+      <workItem from="1562287350561" duration="18057000" />
+      <workItem from="1562561619274" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80029000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18343525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20501636" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django$apps.coverage" NAME="apps Coverage Results" MODIFIED="1562145494857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mydjango/index" />
+    <SUITE FILE_PATH="coverage/django$urls.coverage" NAME="urls Coverage Results" MODIFIED="1562114362555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mydjango/index" />
+    <SUITE FILE_PATH="coverage/django$views.coverage" NAME="views Coverage Results" MODIFIED="1562200481262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mydjango/index" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mydjango/test.png" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/image/text.png" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/image/1562128620.3268847.png" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/somewhere.py" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/templates/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/下载.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/mydjango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.7/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/a.png" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/1562205729.4142897.png" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562211330.4195151.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562211362.9900308.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562211376.5622597.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562211495.7629695.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212173.6029708.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212164.207438.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212160.4775505.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212151.3176446.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212320.4647715.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212522.8743048.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212615.652431.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212640.6808488.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212683.9587357.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212730.33556.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562212891.0393198.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562213026.3332245.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562213029.644983.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562213036.8009048.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562213102.3344116.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562213368.2828007.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1.html" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/1.html" />
+    <entry file="file://$PROJECT_DIR$/mydjango/1562219802.7126546.jpg" />
+    <entry file="file://$PROJECT_DIR$/mydjango/index/templates/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/mydjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2064">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="80" column="51" lean-forward="true" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/face_test_sdk1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#109#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydjango/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
