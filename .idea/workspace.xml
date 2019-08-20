@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3d84aa0-4bbb-42fc-8897-1330111ec110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MySummary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/IP5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/amazon2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/baidu_360.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/fourth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/picture4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/主要内容" beforeDir="false" afterPath="$PROJECT_DIR$/requests/主要内容" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requests/主要内容">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requests/fourth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Variable</find>
+      <find>optimizer</find>
+      <find>model_name</find>
+      <find>save_summaries_secs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/分类/movefile_and_filename/copy_file.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/picture_style.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/sklearn_1.py" />
+        <option value="$PROJECT_DIR$/color.user.js" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/x_x.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/first.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/pi.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/Drawing.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/picture_information.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数学基础/jiecheng.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数学基础/Nagel-Schreckenberg-duche.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数学基础/jinqiu.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数学基础/zhongxinjixian.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/笔记" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数据清洗/duche.py" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/caffe_to_tensorflow.py" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/pascalvoc_to_tfrecords.py" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/tf_extended/metrics.py" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/tf_convert_data.py" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/eval_ssd_network.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数据清洗/sushu.py" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/数据清洗/主要内容" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/多元回归和Logistic回归/主要内容" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/README.md" />
+        <option value="$PROJECT_DIR$/分类/机器学习/B站/回归/主要内容" />
+        <option value="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/train_ssd_network.py" />
+        <option value="$PROJECT_DIR$/分类/scrapy/tutorial/tutorial/spiders/quotes_spider.py" />
+        <option value="$PROJECT_DIR$/scrapy/tutorial/tutorial/spiders/quotes_spider.py" />
+        <option value="$PROJECT_DIR$/requests/first.py" />
+        <option value="$PROJECT_DIR$/requests/second.py" />
+        <option value="$PROJECT_DIR$/requests/third.py" />
+        <option value="$PROJECT_DIR$/requests/jd.py" />
+        <option value="$PROJECT_DIR$/requests/amazon2.py" />
+        <option value="$PROJECT_DIR$/requests/baidu_360.py" />
+        <option value="$PROJECT_DIR$/requests/picture4.py" />
+        <option value="$PROJECT_DIR$/requests/IP5.py" />
+        <option value="$PROJECT_DIR$/requests/主要内容" />
+        <option value="$PROJECT_DIR$/requests/fourth.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="822" />
+    <option name="y" value="27" />
+    <option name="width" value="1195" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MySummary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySummary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MySummary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MySummary" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Verification_Code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.fourth">
+    <configuration name="IP5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MySummary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/IP5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="amazon2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MySummary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/amazon2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_360" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MySummary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/baidu_360.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fourth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MySummary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/fourth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="picture4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MySummary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/picture4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fourth" />
+        <item itemvalue="Python.IP5" />
+        <item itemvalue="Python.picture4" />
+        <item itemvalue="Python.baidu_360" />
+        <item itemvalue="Python.amazon2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3d84aa0-4bbb-42fc-8897-1330111ec110" name="Default Changelist" comment="" />
+      <created>1563522566309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563522566309</updated>
+      <workItem from="1563522568765" duration="2572000" />
+      <workItem from="1563873378090" duration="1942000" />
+      <workItem from="1563875335672" duration="92000" />
+      <workItem from="1563875439822" duration="1114000" />
+      <workItem from="1563955811348" duration="3697000" />
+      <workItem from="1564119019648" duration="565000" />
+      <workItem from="1564478158248" duration="2105000" />
+      <workItem from="1564556147262" duration="2277000" />
+      <workItem from="1564630851443" duration="12731000" />
+      <workItem from="1564983736621" duration="4000" />
+      <workItem from="1564985633208" duration="2194000" />
+      <workItem from="1565071031286" duration="2524000" />
+      <workItem from="1565226333580" duration="364000" />
+      <workItem from="1565226804264" duration="12603000" />
+      <workItem from="1565312388244" duration="11710000" />
+      <workItem from="1565571415052" duration="48119000" />
+      <workItem from="1565831184075" duration="1746000" />
+      <workItem from="1565848060126" duration="5102000" />
+      <workItem from="1565916949081" duration="15847000" />
+      <workItem from="1566176182993" duration="5607000" />
+      <workItem from="1566263306854" duration="3810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136725000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="822" y="27" width="1195" height="1053" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18711923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42965367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33369684" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.21148326" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3293944" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/preprocessing/tf_image.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MySummary$Drawing.coverage" NAME="Drawing Coverage Results" MODIFIED="1564649013531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站" />
+    <SUITE FILE_PATH="coverage/MySummary$jd.coverage" NAME="jd Coverage Results" MODIFIED="1566206443235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$x_x.coverage" NAME="x_x Coverage Results" MODIFIED="1564565122645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站" />
+    <SUITE FILE_PATH="coverage/MySummary$zhongxinjixian.coverage" NAME="zhongxinjixian Coverage Results" MODIFIED="1565245189301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数学基础" />
+    <SUITE FILE_PATH="coverage/MySummary$picture_information.coverage" NAME="picture_information Coverage Results" MODIFIED="1564651111954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站" />
+    <SUITE FILE_PATH="coverage/MySummary$jinqiu.coverage" NAME="jinqiu Coverage Results" MODIFIED="1565231419680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数学基础" />
+    <SUITE FILE_PATH="coverage/MySummary$quotes_spider__1_.coverage" NAME="quotes_spider (1) Coverage Results" MODIFIED="1565938197445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/MySummary$fourth.coverage" NAME="fourth Coverage Results" MODIFIED="1566294841293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$jiecheng.coverage" NAME="jiecheng Coverage Results" MODIFIED="1564987668677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数学基础" />
+    <SUITE FILE_PATH="coverage/MySummary$IP5.coverage" NAME="IP5 Coverage Results" MODIFIED="1566293095366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$picture4.coverage" NAME="picture4 Coverage Results" MODIFIED="1566292425346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$pi.coverage" NAME="pi Coverage Results" MODIFIED="1564648899783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站" />
+    <SUITE FILE_PATH="coverage/MySummary$quotes_spider.coverage" NAME="quotes_spider Coverage Results" MODIFIED="1565850569526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/scrapy/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/MySummary$sushu.coverage" NAME="sushu Coverage Results" MODIFIED="1565252405456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数据清洗" />
+    <SUITE FILE_PATH="coverage/MySummary$second.coverage" NAME="second Coverage Results" MODIFIED="1565942042585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$third.coverage" NAME="third Coverage Results" MODIFIED="1565946237371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$first.coverage" NAME="first Coverage Results" MODIFIED="1565940401121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$baidu_360.coverage" NAME="baidu_360 Coverage Results" MODIFIED="1566207934205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$amazon2.coverage" NAME="amazon2 Coverage Results" MODIFIED="1566207367056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$duche.coverage" NAME="duche Coverage Results" MODIFIED="1565256073797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数据清洗" />
+    <SUITE FILE_PATH="coverage/MySummary$inspect_checkpoint.coverage" NAME="inspect_checkpoint Coverage Results" MODIFIED="1565313500924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/picture_information.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/text.txt" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/jiecheng.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/Nagel-Schreckenberg-duche.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/jinqiu.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/zhongxinjixian.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/Drawing.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/VOCtrainval_06-Nov-2007.tar" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数据清洗/duche.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/笔记" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/inspect_checkpoint.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/tf_extended/image.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/dataset_factory.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/pascalvoc_to_tfrecords.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/pascalvoc_common.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/deployment/model_deploy.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/tf_extended/metrics.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/tf_convert_data.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/caffe_to_tensorflow.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/COMMANDS.md" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数据清洗/sushu.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/imagenet.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/preprocessing/tf_image.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/多元回归和Logistic回归/主要内容" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/dataset_utils.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数据清洗/主要内容" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/pascalvoc_2007.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/eval_ssd_network.py" />
+    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/回归/主要内容" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/preprocessing/ssd_vgg_preprocessing.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/README.md" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/nets/ssd_vgg_300.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/nets/ssd_vgg_512.py" />
+    <entry file="file://$PROJECT_DIR$/分类/scrapy/tutorial/tutorial/spiders/quotes_spider.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/train_ssd_network.py" />
+    <entry file="file://$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master/datasets/cifar10.py" />
+    <entry file="file://$PROJECT_DIR$/scrapy/tutorial/quotes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy/tutorial/tutorial/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/third.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/jd.py" />
+    <entry file="file://$PROJECT_DIR$/requests/images/20170211061910157.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/jd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/amazon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/baidu_360.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/picture4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/IP5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/主要内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/fourth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
