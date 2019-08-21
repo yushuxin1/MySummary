@@ -15,3 +15,7 @@ Python网络爬虫与信息提取
     Attributes          标签的属性,字典形式组织，格式：<tag>.attrs
     NavigableString     标签内非属性字符串，<>...</> 中字符串，格式：<tag>.string
     Comment             标签内字符串的注释部分，一种特殊的Comment类型
+5  标签树的下行遍历
+    .contents           子节点的列表,将<tag>所有儿子节点存入列表
+    .children           子节点的迭代类型，与.contents类似，用于循环遍历儿子节点
+    .descendants        子孙节点的迭代类型，包含所有子孙节点，用于循环遍历
