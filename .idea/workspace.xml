@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d84aa0-4bbb-42fc-8897-1330111ec110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MySummary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/IP5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/amazon2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/baidu_360.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/fourth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/picture4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/fifth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/fourth.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/fourth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requests/主要内容" beforeDir="false" afterPath="$PROJECT_DIR$/requests/主要内容" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requests/主要内容">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="576">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -47,11 +41,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requests/fourth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="314">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requests/fifth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -117,14 +120,15 @@
         <option value="$PROJECT_DIR$/requests/picture4.py" />
         <option value="$PROJECT_DIR$/requests/IP5.py" />
         <option value="$PROJECT_DIR$/requests/主要内容" />
+        <option value="$PROJECT_DIR$/requests/fifth.py" />
         <option value="$PROJECT_DIR$/requests/fourth.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="822" />
+    <option name="x" value="807" />
     <option name="y" value="27" />
-    <option name="width" value="1195" />
+    <option name="width" value="1112" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -323,18 +327,19 @@
       <workItem from="1565848060126" duration="5102000" />
       <workItem from="1565916949081" duration="15847000" />
       <workItem from="1566176182993" duration="5607000" />
-      <workItem from="1566263306854" duration="3810000" />
+      <workItem from="1566263306854" duration="4155000" />
+      <workItem from="1566349035450" duration="4613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136725000" />
+    <option name="totallyTimeSpent" value="141683000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="822" y="27" width="1195" height="1053" extended-state="0" />
+    <frame x="807" y="27" width="1112" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18711923" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19060053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -379,7 +384,7 @@
     <SUITE FILE_PATH="coverage/MySummary$picture_information.coverage" NAME="picture_information Coverage Results" MODIFIED="1564651111954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站" />
     <SUITE FILE_PATH="coverage/MySummary$jinqiu.coverage" NAME="jinqiu Coverage Results" MODIFIED="1565231419680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数学基础" />
     <SUITE FILE_PATH="coverage/MySummary$quotes_spider__1_.coverage" NAME="quotes_spider (1) Coverage Results" MODIFIED="1565938197445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy/tutorial/tutorial/spiders" />
-    <SUITE FILE_PATH="coverage/MySummary$fourth.coverage" NAME="fourth Coverage Results" MODIFIED="1566294841293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$fourth.coverage" NAME="fourth Coverage Results" MODIFIED="1566380465229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$jiecheng.coverage" NAME="jiecheng Coverage Results" MODIFIED="1564987668677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数学基础" />
     <SUITE FILE_PATH="coverage/MySummary$IP5.coverage" NAME="IP5 Coverage Results" MODIFIED="1566293095366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$picture4.coverage" NAME="picture4 Coverage Results" MODIFIED="1566292425346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
@@ -395,7 +400,6 @@
     <SUITE FILE_PATH="coverage/MySummary$inspect_checkpoint.coverage" NAME="inspect_checkpoint Coverage Results" MODIFIED="1565313500924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/picture_information.py" />
     <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/text.txt" />
     <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/jiecheng.py" />
     <entry file="file://$PROJECT_DIR$/分类/机器学习/B站/数学基础/Nagel-Schreckenberg-duche.py" />
@@ -524,15 +528,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requests/主要内容">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="576">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests/fifth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requests/fourth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="314">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
