@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d84aa0-4bbb-42fc-8897-1330111ec110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requests/正则表达" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/IP5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/Robots协议" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/amazon2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/baidu_360.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/fifth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/first.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/fourth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/jd1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/picture4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/request介绍" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/second.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/third.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/主要内容" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/正则表达" beforeDir="false" afterPath="$PROJECT_DIR$/requests/正则表达" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,17 +26,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requests/正则表达">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,8 +95,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
-    <option name="y" value="197" />
+    <option name="x" value="80" />
+    <option name="y" value="277" />
     <option name="width" value="1112" />
     <option name="height" value="1053" />
   </component>
@@ -151,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Verification_Code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -323,17 +300,18 @@
       <workItem from="1566349035450" duration="5589000" />
       <workItem from="1566436946658" duration="18786000" />
       <workItem from="1566467276204" duration="186000" />
+      <workItem from="1566522649687" duration="7642000" />
+      <workItem from="1566784815149" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161631000" />
+    <option name="totallyTimeSpent" value="169897000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="197" width="1112" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="80" y="277" width="1112" height="1053" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19043152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3227017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,8 +447,8 @@
     <entry file="file://$PROJECT_DIR$/requests/first.py" />
     <entry file="file://$PROJECT_DIR$/requests/正则表达">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="462">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
