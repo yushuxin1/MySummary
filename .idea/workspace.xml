@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3d84aa0-4bbb-42fc-8897-1330111ec110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requests/first.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requests/正则表达" beforeDir="false" afterPath="$PROJECT_DIR$/requests/正则表达" afterDir="false" />
     </list>
@@ -26,7 +27,26 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requests/正则表达">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="617">
+              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requests/first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,16 +107,16 @@
         <option value="$PROJECT_DIR$/requests/IP5.py" />
         <option value="$PROJECT_DIR$/requests/fourth.py" />
         <option value="$PROJECT_DIR$/requests/fifth.py" />
-        <option value="$PROJECT_DIR$/requests/first.py" />
         <option value="$PROJECT_DIR$/requests/主要内容" />
         <option value="$PROJECT_DIR$/requests/daxuepaiming.py" />
+        <option value="$PROJECT_DIR$/requests/first.py" />
         <option value="$PROJECT_DIR$/requests/正则表达" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="277" />
+    <option name="x" value="32" />
+    <option name="y" value="238" />
     <option name="width" value="1112" />
     <option name="height" value="1053" />
   </component>
@@ -106,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,12 +142,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Verification_Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -145,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.daxuepaiming">
+  <component name="RunManager" selected="Python.first">
     <configuration name="IP5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MySummary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,8 +278,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.daxuepaiming" />
         <item itemvalue="Python.first" />
+        <item itemvalue="Python.daxuepaiming" />
         <item itemvalue="Python.fifth" />
         <item itemvalue="Python.fourth" />
         <item itemvalue="Python.IP5" />
@@ -302,21 +322,23 @@
       <workItem from="1566467276204" duration="186000" />
       <workItem from="1566522649687" duration="7642000" />
       <workItem from="1566784815149" duration="624000" />
+      <workItem from="1566797985841" duration="9776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169897000" />
+    <option name="totallyTimeSpent" value="179673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="277" width="1112" height="1053" extended-state="0" />
+    <frame x="864" y="27" width="1112" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3227017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12851782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3592233" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22186147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,7 +389,7 @@
     <SUITE FILE_PATH="coverage/MySummary$second.coverage" NAME="second Coverage Results" MODIFIED="1565942042585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$third.coverage" NAME="third Coverage Results" MODIFIED="1565946237371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$baidu_360.coverage" NAME="baidu_360 Coverage Results" MODIFIED="1566207934205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-    <SUITE FILE_PATH="coverage/MySummary$first.coverage" NAME="first Coverage Results" MODIFIED="1566455925837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/MySummary$first.coverage" NAME="first Coverage Results" MODIFIED="1566810659072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$amazon2.coverage" NAME="amazon2 Coverage Results" MODIFIED="1566207367056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/MySummary$duche.coverage" NAME="duche Coverage Results" MODIFIED="1565256073797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/机器学习/B站/数据清洗" />
     <SUITE FILE_PATH="coverage/MySummary$inspect_checkpoint.coverage" NAME="inspect_checkpoint Coverage Results" MODIFIED="1565313500924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分类/目标识别/SSD-Tensorflow-master" />
@@ -444,11 +466,17 @@
     <entry file="file://$PROJECT_DIR$/requests/fourth.py" />
     <entry file="file://$PROJECT_DIR$/requests/daxuepaiming.py" />
     <entry file="file://$PROJECT_DIR$/requests/主要内容" />
-    <entry file="file://$PROJECT_DIR$/requests/first.py" />
+    <entry file="file://$PROJECT_DIR$/requests/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="20" column="63" lean-forward="true" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requests/正则表达">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="617">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
         </state>
       </provider>
     </entry>
